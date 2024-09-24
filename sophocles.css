@@ -1,0 +1,37 @@
+.speech
+{
+     font-family: 'Arial Narrow';
+     font-size: 14px;
+     color: aqua;
+
+}
+.name
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size:2px;
+    color:bisque;
+}
+.direction
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:72px;
+    color:brown;
+}  
+.direction:hover
+{
+    color:blueviolet;
+    background-color:black;
+}
+.ANT
+{
+    color:rgb(236, 236, 21);
+}  
+.OED
+{
+    color:cornflowerblue;
+
+} 
+.CH
+{
+    color:hsl(328, 100%, 54%);
+} 
