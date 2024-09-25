@@ -1,0 +1,22 @@
+table{
+    width: 40%;
+    border-collapse: collapse;
+    margin-top: 14px;
+    margin: 14px 0;
+    padding: 7px;
+}
+th {
+    background-color: hsl(300, 100%, 27%);
+    color:aqua;
+    text-align:Right;
+    padding:10px;
+
+}
+td{
+    padding:9px;
+    border:2px solid #ddd;
+    text-align:left;
+}
+tbody tr:nth-last-child(even){
+    background-color: #f2f2f2;
+}
